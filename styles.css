@@ -19,7 +19,6 @@ ul li {
 
 .container {
     display: flex;
-    border: 1px solid red;
     justify-content: center;
     flex-wrap: wrap;
 }
@@ -133,7 +132,6 @@ ul li {
     border-radius: 8px;
     background: #3882f6;
     width: 75%;
-    border: 1px solid red;
 }
 
 .call-left {
